@@ -1,0 +1,5 @@
+celsius = int(input('enter the value of celsius:'))
+
+fahrenheit = (celsius * 9/5) + 32
+
+print('fahrenheit of ',fahrenheit)
